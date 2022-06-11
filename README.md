@@ -1,5 +1,5 @@
 # forests-at-the-fringe
-These R scripts are in support of 'Forests at the Fringe: comparing observed change to projected climate change impacts for five species in the Pacific Northwest' by Karin Kralicek, Tara Barrett, Jay Ver Hoef, and Temesgen Hailemariam. There are 5 scripts in this project, which begin with a number indicating their order in the workflow. Some objects in this workflow are dependent on results (i.e., R-objects) created in the second research chapter of K. Kralicek's PhD dissertation (Kralicek, 2022), the scripts for which can be found online at XXXX.
+These R scripts are in support of 'Forests at the Fringe: comparing observed change to projected climate change impacts for five species in the Pacific Northwest' by Karin Kralicek, Tara Barrett, Jay Ver Hoef, and Temesgen Hailemariam. There are 5 scripts in this project, which begin with a number indicating their order in the workflow. Some objects in this workflow are dependent on results (i.e., R-objects) created in the second research chapter of K. Kralicek's PhD dissertation (Kralicek, 2022), the scripts for which can be found online at https://github.com/kkralicek0/car-sdm. This repository is archived and read-only.
 
 
 Definition of scripts:
