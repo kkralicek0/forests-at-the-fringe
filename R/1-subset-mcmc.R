@@ -4,10 +4,11 @@
 ## Updated - 06-10-2022
 ## Author  - Karin Kralicek (karin.kralicek@usda.gov)
 ## 
-## This R script is in support of 'Forests at the Fringe: comparing observed
+## This R script is in support of 'Forests at the Fringe: Comparing observed
 ## change to projected climate change impacts for five species in the Pacific 
-## Northwest' by Karin Kralicek, Tara Barrett, Jay Ver Hoef, and Temesgen
-## Hailemariam.
+## Northwest, United States' by Karin Kralicek, Tara M. Barrett, Jay M. Ver 
+## Hoef, and Temesgen Hailemariam (Front. For. Glob. Change 5:966953. 
+## doi: 10.3389/ffgc.2022.966953).
 ##  
 ## About - this script:
 ## - create & save new reduced-size pred objects for this work:
