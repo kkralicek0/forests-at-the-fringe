@@ -1,6 +1,6 @@
 # forests-at-the-fringe
 ### These R scripts are in support of 'Forests at the fringe: Comparing observed change to projected climate change impacts for five species in the Pacific Northwest, United States.'
-#### Karin Kralicek<sup>1,2</sup>, Tara M. Barrett<sup>3</sup>, Jay M. Ver Hoef<sup>4</sup>, and Temesgen Hailemariam<sup>3</sup> 
+#### Karin Kralicek<sup>1,2</sup>, Tara M. Barrett<sup>3</sup>, Jay M. Ver Hoef<sup>4</sup>, and Temesgen Hailemariam<sup>2</sup> 
 <sup>1</sup>Forest Inventory and Analysis Program, Rocky Mountain Research Station, USDA Forest Service, Fort Collins, CO, United States; <sup>2</sup>Forest Measurements and Biometrics Laboratory, Department of Forest Engineering, Resources, and Management, Oregon State University, Corvallis, OR, United States; <sup>3</sup>Pacific Northwest Research Station, USDA Forest Service, Wenatchee, WA, United States; <sup>4</sup>Marine Mammal Laboratory, Alaska Fisheries Science Center, NOAA National Marine Fisheries Service, Seattle, WA, United States
 
 The publication is currently accepted for publication in Frontiers in Forests and Global Change:
